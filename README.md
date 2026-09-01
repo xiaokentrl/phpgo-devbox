@@ -1,3 +1,9 @@
+The project has been migrated to: https://github.com/xiaokentrl/phpbox
+
+https://github.com/xiaokentrl/phpbox
+
+
+
 # 🏗️ 最终项目架构 (1+1+N 扩展模型)
 
 | 组件 | Flatpak ID | 说明 |
